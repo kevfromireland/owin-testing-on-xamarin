@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamTestWebkit", "XamTestWebkit\XamTestWebkit.csproj", "{B035FEC3-2310-4A5F-92E1-2595F7D88679}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		AppStore|Any CPU = AppStore|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B035FEC3-2310-4A5F-92E1-2595F7D88679}.AppStore|Any CPU.ActiveCfg = AppStore|Any CPU
+		{B035FEC3-2310-4A5F-92E1-2595F7D88679}.AppStore|Any CPU.Build.0 = AppStore|Any CPU
+		{B035FEC3-2310-4A5F-92E1-2595F7D88679}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B035FEC3-2310-4A5F-92E1-2595F7D88679}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B035FEC3-2310-4A5F-92E1-2595F7D88679}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B035FEC3-2310-4A5F-92E1-2595F7D88679}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = XamTestWebkit\XamTestWebkit.csproj
+	EndGlobalSection
+EndGlobal
